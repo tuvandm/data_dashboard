@@ -1,0 +1,104 @@
+ID,Title,SKU,Product Type,Product categories,Price,Regular Price,Gross Profit
+1468,The Five Bladed Colonel,,Variable Subscription,memberships|razor blades,8.5,,4.88
+1469,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.5,8.5,4.88
+1472,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.5,8.5,4.88
+1778,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.5,8.5,4.88
+2687,The Gift Set,CNLHOLBOX,variable,gifts|starter sets,60.0,,
+4846,The Five Bladed Colonel,,Variable Subscription,memberships|razor blades,9.0,,5.3
+4847,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,9.0,9.0,5.3
+4848,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,9.0,9.0,5.3
+4849,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,9.0,9.0,5.3
+5038,The Five Bladed Colonel,,Variable Subscription,memberships|razor blades,8.99,,5.29
+5039,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.99,8.99,5.29
+5040,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.99,8.99,5.29
+5041,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.99,8.99,5.29
+5045,The Five Bladed Colonel,,Variable Subscription,memberships|razor blades,10.0,,6.13
+5046,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,10.0,10.0,6.13
+5047,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,10.0,10.0,6.13
+5048,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,10.0,10.0,6.13
+5582,The Colonel's Sidekick,UPBRSHSOP,bundle,gifts|starter sets,25.0,25.0,8.95
+20292,Membership Pre-Payment (Blades),PREPAYMEM,variable,gifts,,,
+20295,Membership Pre-Payment (Blades),PREPAYMEM3,variable,gifts,30.0,30.0,
+20296,Membership Pre-Payment (Blades),PREPAYMEM6,variable,gifts,60.0,60.0,
+20297,Membership Pre-Payment (Blades),PREPAYMEM12,variable,gifts,120.0,120.0,
+32996,Starter Handle (retired),HNDL5,simple,extras,4.0,4.0,2.33
+33040,Sensitive Shaving Cream,SSCRM,simple,extras,8.0,8.0,3.15
+33050,Badger Shaving Brush (retired),BRSH,simple,extras,20.0,20.0,6.5
+34444,Shaving Brush & Cream,BRSHCRM,bundle,extras,25.0,25.0,9.88
+56841,Sandalwood Shaving Cream,WDSCRM,simple,extras,8.0,8.0,3.15
+57482,Shaving Brush & Sandalwood Cream,BRSHWDCRM,simple,extras,25.0,25.0,10.33
+91248,Three Bladed Colonel,3BCOL,Variable Subscription,memberships|razor blades,9.0,,
+91251,Three Bladed Colonel,3BCOL,variable,memberships|razor blades,9.0,9.0,
+91252,Three Bladed Colonel,3BCOL,variable,memberships|razor blades,9.0,9.0,
+91253,Three Bladed Colonel,3BCOL,variable,memberships|razor blades,9.0,9.0,
+91254,Three Bladed Colonel,3BCOL,variable,memberships|razor blades,9.0,9.0,
+91255,Three Bladed Colonel,3BCOL,variable,memberships|razor blades,9.0,9.0,
+95973,Blade (Single),LGBLADE,simple,Uncategorized,2.5,2.5,
+101358,The Colonel's Sidekick,UPBRSHSOPIVOSAND,bundle,gifts|starter sets,25.0,25.0,10.33
+110296,Badger Shaving Brush,BRSHIVO,simple,extras,20.0,20.0,6.5
+110351,Review Pack (1st month),REVIEWPACK,simple,Uncategorized,0.01,0.01,
+112719,Tin (empty),TINSOLO,simple,Uncategorized,5.0,5.0,3.25
+160591,The Five Bladed Colonel,,Variable Subscription,memberships|razor blades,8.0,,4.47
+160592,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.0,8.0,4.47
+160593,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.0,8.0,4.47
+160594,The Five Bladed Colonel,BSL301294,variable,memberships|razor blades,8.0,8.0,4.47
+221056,Brush with Sandalwood Cream (combo),CMBOBRSHWDCRM,bundle,gifts|starter sets,28.0,28.0,9.4
+221062,Brush with Sensitive Cream (combo),CMBOBRSHSENCRM,bundle,gifts|starter sets,28.0,28.0,9.88
+243086,Sock Drawer Service,BCSOCK,Variable Subscription,memberships|socks,8.0,,
+243194,Sock Drawer Service,3PATBCSOCK,variable,memberships|socks,12.0,12.0,
+243195,Sock Drawer Service,2PATBCSOCK,variable,memberships|socks,10.0,10.0,
+243197,Sock Drawer Service,1PATBCSOCK,variable,memberships|socks,8.0,8.0,
+243199,Sock Drawer Service,3DOTBCSOCK,variable,memberships|socks,12.0,12.0,
+243200,Sock Drawer Service,2DOTBCSOCK,variable,memberships|socks,10.0,10.0,
+243201,Sock Drawer Service,1DOTBCSOCK,variable,memberships|socks,8.0,8.0,
+243202,Sock Drawer Service,3BLKBCSOCK,variable,memberships|socks,12.0,12.0,
+243203,Sock Drawer Service,2BLKBCSOCK,variable,memberships|socks,10.0,10.0,
+243204,Sock Drawer Service,1BLKBCSOCK,variable,memberships|socks,8.0,8.0,
+245028,Leather Wash Bag,BCLEAWSH1,simple,extras,35.0,35.0,18.0
+245030,The Gift Set,GS16BCWSH-SAND,variable,gifts|starter sets,60.0,60.0,
+245031,The Gift Set,GS16BCWSH-SENS,variable,gifts|starter sets,60.0,60.0,
+250551,Sock Drawer Service,1EACHBCSOCK,variable,memberships|socks,12.0,12.0,
+275849,King's Gambit Beard Oil,BCBRDKG,simple,beard oil,20.0,20.0,11.67
+289713,The Colonel's Sidekick,UPBRSHSOPIVOSAND,variable,gifts|starter sets,,,10.33
+289714,The Colonel's Sidekick,UPBRSHSOPIVOSAND,variable,gifts|starter sets,,,10.33
+290101,The Colonel's Sidekick,UPBRSHSOPIVOSENS,bundle,gifts|starter sets,25.0,25.0,9.88
+290102,The Colonel's Sidekick,UPBRSHSOPIVOSENS,variable,gifts|starter sets,,,9.88
+290103,The Colonel's Sidekick,UPBRSHSOPIVOSENS,variable,gifts|starter sets,,,9.88
+345034,The Handle,PNDL,simple,gifts,50.0,50.0,
+345156,The Handle (+ Extra 4 Heads),PNDL4HDS,simple,razor blades,60.0,60.0,
+345712,VIP Refill 4 Pack,BCBVIP4,simple,razor blades,8.0,8.0,4.47
+346029,The Handle (SPECIAL: 4 Heads + Tin),PNDL4HDS-SPC,simple,razor blades,40.0,40.0,
+346682,The Handle [SPECIAL: 4 Heads + Tin],PNDL4HDS-SPCC,simple,razor blades,50.0,50.0,
+400807,The 5 Bladed Colonel,BCB,Variable Subscription,memberships|razor blades,10.0,,6.13
+400808,The 5 Bladed Colonel,BCB101,variable,memberships|razor blades,10.0,10.0,6.13
+400809,The 5 Bladed Colonel,BCB102,variable,memberships|razor blades,10.0,10.0,6.13
+400810,The 5 Bladed Colonel,BCB103,variable,memberships|razor blades,10.0,10.0,6.13
+400811,swcrd,SWCRD,simple,Uncategorised,0.0,0.0,
+400813,Starter Handle,CRCHND,simple,extras,0.0,0.0,
+407179,Blade (Single),BCB001,simple,Uncategorized,2.5,2.5,
+411083,New Starter Handle,BCBHND,simple,extras,5.0,5.0,3.0
+417855,Blue Travel Cover,BCBCOVER,simple,extras,3.0,3.0,2.32
+569029,VIP Membership,BCVIP,Variable Subscription,memberships|razor blades|VIP,8.0,,4.47
+569030,VIP Membership,BCVIP101,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+569031,VIP Membership,BCVIP102,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+569032,VIP Membership,BCVIP103,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+600288,VIP Starter Set,BCVIPSOLO,simple,memberships|razor blades|VIP,25.0,25.0,
+600289,VIP Starter Set,BCVIP101-1,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+600290,VIP Starter Set,BCVIP102-1,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+600291,VIP Starter Set,BCVIP103-1,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+603721,Premium Handle,BCVIPHNDL,simple,extras,20.0,20.0,15.0
+608555,VIP Upgrade (Refill On Demand),BCVIPRJ,simple,memberships|razor blades|VIP,8.0,8.0,4.47
+608641,Upgrade To VIP,BCVIPRJSUB,Variable Subscription,memberships|razor blades|VIP,8.0,,4.47
+608642,Upgrade To VIP,BCVIPRJ101,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+608643,Upgrade To VIP,BCVIPRJ102,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+608644,Upgrade To VIP,BCVIPRJ103,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+608662,5 Bladed Colonel,BCBRJ,Variable Subscription,memberships|razor blades,10.0,,6.13
+608663,5 Bladed Colonel,BCBRJ101,variable,memberships|razor blades,10.0,10.0,6.13
+608664,5 Bladed Colonel,BCBRJ102,variable,memberships|razor blades,10.0,10.0,6.13
+608665,5 Bladed Colonel,BCBRJ103,variable,memberships|razor blades,10.0,10.0,6.13
+614987,Claim Premium Handle,RCHNDLBLD,simple,razor blades,20.0,20.0,-1.0
+623929,VIP Starter Set,BCVIPSOLO-1,simple,memberships|razor blades|VIP,40.0,40.0,29.21
+623933,VIP Membership,BCVIP-1,Variable Subscription,memberships|razor blades|VIP,8.0,,4.47
+623934,VIP Membership,BCVIP101-2,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+623935,VIP Membership,BCVIP102-2,variable,memberships|razor blades|VIP,8.0,8.0,4.47
+623936,VIP Membership,BCVIP103-2,variable,memberships|razor blades|VIP,8.0,8.0,4.47
