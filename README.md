@@ -12,3 +12,7 @@ allows the user to identify which traits lead to better ROI and/or better
 retention. It also allows for a more sophisticated look at average aquisition
 cost from a campaign vs lifetime profit value (a campaign with a very high cost of
 aquisition may actually have excellent ROI due to that populations buying behaviour)
+
+
+Note: while much of the data has been scrambled for privacy reasons, the underlying
+relations and structure of the data remain true; person X did buy thing Y on date Z.
